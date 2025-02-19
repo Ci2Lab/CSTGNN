@@ -33,7 +33,7 @@ Our approach improves **model interpretability** by discovering **hidden relatio
 ---
 
 ## **📂 Dataset**
-Our experiments use **real-world industrial datasets**, including sensor-based time series data from **Industrial IoT applications**.   
+Our experiments use **real-world industrial datasets**, including sensor-based time series data from **Industrial IoT applications**.  
 
 Example dataset structure:
 <p align="center">
@@ -55,14 +55,10 @@ Our framework consists of three main modules:
 
 ---
 
-## **🔍 Explainability**
-To ensure **model interpretability**, we integrate **causal inference techniques** to provide **insights into feature importance and sensor dependencies** in the forecasting process.  
 
 ---
 
 ## **📌 Acknowledgements**
-- We utilize **graph neural networks (GNNs)** for spatial modeling.
-- Causal inference is integrated using **data-driven causality learning methods**.
 - The **datasets** used in this study originate from real-world **Industrial IoT systems**.
 
 ---
@@ -70,7 +66,7 @@ To ensure **model interpretability**, we integrate **causal inference techniques
 ## **📬 Contact**
 For questions or collaborations, feel free to open an issue or reach out!  
 
-📧 Email: [amir.miraki@example.com](mailto:amir.miraki@example.com)  
+📧 Email: [amir@hvl.no](mailto:amir@hvl.no)  
 
 ---
 
