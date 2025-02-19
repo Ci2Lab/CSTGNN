@@ -1,8 +1,3 @@
-# CSTGNN
- Causal-based Spatio-Temporal Graph Neural  Networks for Industrial Internet of Things  Multivariate Time Series Forecasting
-
-
-
 
 # **Causal-Based Spatio-Temporal Graph Neural Networks for Industrial IoT Multivariate Time Series Forecasting**
 ![](Pipeline_CSTGNN.jpg)
