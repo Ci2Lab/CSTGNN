@@ -9,7 +9,9 @@
 
 
 This repository contains the code for our paper:  
-📄 **[Causal-Based Spatio-Temporal Graph Neural Networks for Industrial Internet of Things Multivariate Time Series Forecasting]([https://link.springer.com/chapter/10.1007/978-3-031-44070-0_6])**  
+📄Here’s the corrected version of your text:  
+
+**[Causal-Based Spatio-Temporal Graph Neural Networks for Industrial Internet of Things Multivariate Time Series Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-44070-0_6)**  
 ✍ **Authors:** Amir Miraki, Austėja Dapkutė, Vytautas Šiožinys, Martynas Jonaitis & Reza Arghandeh  
 📚 **Conference:** *Explainable Artificial Intelligence (xAI 2023), World Conference on Explainable AI*  
 📖 **Book Series:** *Communications in Computer and Information Science (CCIS, Volume 1903)*  
