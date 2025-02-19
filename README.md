@@ -44,19 +44,10 @@ Our framework consists of three main modules:
 - **Temporal Convolution Module:** Captures temporal dependencies in multivariate time series data.
 - **Graph Neural Network Module:** Models spatial dependencies between sensors using graph neural networks.
 
-<p align="center">
-  <img src="images/model_architecture.png" width="700"/>
-</p>
 
 ---
 
 
----
-
-## **📌 Acknowledgements**
-- The **datasets** used in this study originate from real-world **Industrial IoT systems**.
-
----
 
 
 ## **📝 Citation**
