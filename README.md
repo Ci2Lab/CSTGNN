@@ -5,7 +5,7 @@
 
 
 # **Causal-Based Spatio-Temporal Graph Neural Networks for Industrial IoT Multivariate Time Series Forecasting**
-![](Pipeline_CSTGNN.png)
+![](Pipeline_CSTGNN.jpg)
 
 
 This repository contains the code for our paper:  
