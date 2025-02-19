@@ -18,9 +18,7 @@ In this work, we introduce a **framework** that enhances the efficiency of **spa
 
 Our approach improves **model interpretability** by discovering **hidden relationships** between sensors, ensuring that deep learning decisions in **industrial time series forecasting** are both **accurate and explainable**. This is particularly crucial for **predictive maintenance, anomaly detection, and process optimization** in industrial settings.
 
-<p align="center">
-  <img src="images/framework.png" width="700"/>
-</p>
+
 
 ---
 
@@ -35,10 +33,7 @@ Our approach improves **model interpretability** by discovering **hidden relatio
 ## **📂 Dataset**
 Our experiments use **real-world industrial datasets**, including sensor-based time series data from **Industrial IoT applications**.  
 
-Example dataset structure:
-<p align="center">
-  <img src="images/dataset_example.png" width="600"/>
-</p>
+
 
 ---
 
@@ -63,12 +58,6 @@ Our framework consists of three main modules:
 
 ---
 
-## **📬 Contact**
-For questions or collaborations, feel free to open an issue or reach out!  
-
-📧 Email: [amir@hvl.no](mailto:amir@hvl.no)  
-
----
 
 ## **📝 Citation**
 If you find this work useful, please cite our paper:
