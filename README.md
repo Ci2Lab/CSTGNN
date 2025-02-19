@@ -8,8 +8,7 @@
 ![](Pipeline_CSTGNN.jpg)
 
 
-This repository contains the code for our paper:  
-📄Here’s the corrected version of your text:  
+This repository contains the code for our paper:   
 
 **[Causal-Based Spatio-Temporal Graph Neural Networks for Industrial Internet of Things Multivariate Time Series Forecasting](https://link.springer.com/chapter/10.1007/978-3-031-44070-0_6)**  
 ✍ **Authors:** Amir Miraki, Austėja Dapkutė, Vytautas Šiožinys, Martynas Jonaitis & Reza Arghandeh  
@@ -31,13 +30,7 @@ Our approach improves **model interpretability** by discovering **hidden relatio
 ✔ **Industrial Applications:** Predictive maintenance, anomaly detection, and operational efficiency in **Industrial IoT systems**.  
 
 ---
-
-## **📂 Dataset**
-Our experiments use **real-world industrial datasets**, including sensor-based time series data from **Industrial IoT applications**.  
-
-
-
----
+ 
 
 ## **🧠 Model Architecture**
 Our framework consists of three main modules:
